@@ -1,0 +1,15 @@
+{
+  "name": "ziroom_spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "announce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wechaty": "^0.48.10",
+    "wechaty-puppet": "^0.32.3"
+  }
+}
